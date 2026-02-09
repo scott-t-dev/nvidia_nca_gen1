@@ -1,0 +1,48 @@
+# Python
+#
+# Python bytecode .pyc files
+__pycache__
+*.pyc
+# Compiled extensions (e.g. .so, .pyd)
+*.so
+*.pyd
+
+# Environments
+.env
+venv
+env
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Editors and IDEs
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Misc
+pip-log.txt
+pip-delete-this-line.txt
