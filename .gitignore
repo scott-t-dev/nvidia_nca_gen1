@@ -46,3 +46,4 @@ htmlcov/
 # Misc
 pip-log.txt
 pip-delete-this-line.txt
+*.bin
